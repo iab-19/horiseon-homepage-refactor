@@ -4,9 +4,9 @@ README for the homework for the first module
 
 
 User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+AS A marketing agency  
+I WANT a codebase that follows accessibility standards  
+SO THAT our own site is optimized for search engines  
 
 Acceptance Criteria
 GIVEN a webpage meets accessibility standards
