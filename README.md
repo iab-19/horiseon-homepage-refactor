@@ -21,13 +21,14 @@ THEN they fall in sequential order
 WHEN I view the title element  
 THEN I find a concise, descriptive title  
 ### Tasks to do
-- [] Add semantics to html code
+- [x] Add semantics to html code
 - [] Make sure elements follow a logical structure
-- [] Add alt attributes to where appropriate
+- [x] Add alt attributes to where appropriate
 - [] Ensure heading attributes fall in sequential order
 - [] Create a consise, descriptive title
 
   
- Screenshot of deployed application:  ![iab-19 github io_ibrahima-module-1-challenge_](https://github.com/iab-19/horiseon-homepage-refactor/assets/132946236/af446820-118e-484f-b2c9-a7faf98ace95)  
+ Screenshot of deployed application: ![iab-19 github io_ibrahima-module-1-challenge](https://github.com/iab-19/horiseon-homepage-refactor/assets/132946236/8316a9bb-e74a-4788-aca5-8bb2f1d12909)  
+
 
  Website URL: https://iab-19.github.io/ibrahima-module-1-challenge/
