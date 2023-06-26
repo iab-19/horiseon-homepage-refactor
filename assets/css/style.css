@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* A blue header with links ti the integral parts of the website */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,6 +21,7 @@ h1 {
     font-size: 48px;
 }
 
+/* Ensures the 'seo' part of horiseon is a different color to the rest of the text */
 .seo {
     color: #d9dcd6;
 }
@@ -32,6 +34,7 @@ header section {
     font-size: 20px;
 }
 
+/* Ensures there are no bullet points for lists */
 ul {
     list-style-type: none;
 }
@@ -46,6 +49,7 @@ a {
     text-decoration: none;
 }
 
+/* Inserts the digital marketing image to span the page width */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     font-size: 16px;
 }
 
+/* Ensures the main content of the site takes up 75% of the page */
 .content {
     width: 75%;
     display: inline-block;
@@ -74,6 +79,7 @@ p {
     font-size: 36px;
 }
 
+/* Gives all the main card the same style */
 .style {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,6 +99,7 @@ p {
     margin-left: 25px;
 }
 
+/* Ensures the benefit section of the page has a width of 20% and is on the right side of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -127,6 +134,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
