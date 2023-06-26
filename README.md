@@ -33,4 +33,4 @@ and some links to their services.
 Screenshot of deployed application: ![iab-19 github io_ibrahima-module-1-challenge](https://github.com/iab-19/horiseon-homepage-refactor/assets/132946236/8316a9bb-e74a-4788-aca5-8bb2f1d12909)
 
 
-Website URL: https://iab-19.github.io/ibrahima-module-1-challenge/
+ Website URL: https://iab-19.github.io/horiseon-homepage-refactor/
